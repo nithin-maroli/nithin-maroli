@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithin-maroli
-- 👀 I’m interested in ... design , architecture , writing beautiful code, enabling systems integrate in the most optimized way, java , python , kotlin , go , cloud ,kafka
+- 👀 I’m interested in ... design , architecture , writing elegant code, enabling systems integrate in the most optimized way, java , python , kotlin , go , cloud ,kafka
 - 🌱 I’m currently learning ... full stack development, solid design principles
 - 💞️ I’m looking to collaborate on ... any open source project to develop APIs , integrations between systems
 - 📫 How to reach me ... mv.nithin@gmail.com
